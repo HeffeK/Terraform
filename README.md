@@ -1,2 +1,2 @@
 # Terraform
-repo for utilizing terrafrom
+repo for utilizing terraform
